@@ -7,4 +7,5 @@ function Header() {
         </div>
     );
 }
+// Export the 'Header' component as the default export of this module.
 export default Header;
