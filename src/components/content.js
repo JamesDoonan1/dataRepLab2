@@ -1,3 +1,4 @@
+// This function defines a React component named 'Content'.
 function Content() {
     return (
         //everything inside div is visual part of component
@@ -7,4 +8,5 @@ function Content() {
         </div>
     );
 }
+// Export the 'Content' component as the default export of this module.
 export default Content;
