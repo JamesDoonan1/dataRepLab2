@@ -1,3 +1,4 @@
+// This function defines a React component named 'Footer'.
 function Footer() {
     return (
         //everything inside div is visual part of component
