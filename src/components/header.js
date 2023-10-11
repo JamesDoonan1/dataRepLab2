@@ -1,3 +1,4 @@
+// This function defines a React component named 'Header'.
 function Header() {
     return (
         //everything inside div is visual part of component
