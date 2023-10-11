@@ -7,4 +7,5 @@ function Footer() {
         </div>
     );
 }
+// Export the 'Footer' component as the default export of this module.
 export default Footer;
